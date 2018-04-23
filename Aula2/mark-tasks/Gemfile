@@ -1,0 +1,11 @@
+#encoding: utf-8
+
+source "http://rubygems.org"
+
+gem "rspec"
+gem "cucumber"
+gem "selenium-webdriver"
+gem "capybara"
+
+
+# 2:12:06

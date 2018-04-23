@@ -1,0 +1,10 @@
+        Dado que eu tenho uma nova tarefa com o titulo "ler um livro de Ruby"
+        E a data de finalização desta tare é "30/04/2018"
+        E alem disso eu quero taguear esta tarefa com:
+            |  tags   |
+            |  ruby   |
+            |  livro  |
+            | leitura |
+            | estudar |
+        Quando faço o cadastro desta tarefa
+        Então devo ver este cadastro no painel de atividades com status "Em andamento"
